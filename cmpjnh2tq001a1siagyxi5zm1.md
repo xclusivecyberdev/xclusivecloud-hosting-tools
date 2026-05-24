@@ -48,6 +48,6 @@ XclusiveCloud offers:
 
 We're expanding our infrastructure, adding more Nigerian-focused features, and building content to help Nigerian businesses understand web hosting better.
 
-If you're a Nigerian business looking for hosting that makes sense in naira, visit us at xclusivecloud.com.
+If you're a Nigerian business looking for hosting that makes sense in naira, visit us at [xclusivecloud.com.](https://xclusivecloud.com)
 
 If you're a developer interested in the technical side of running a Nigerian hosting company — follow this blog. We'll share everything.
